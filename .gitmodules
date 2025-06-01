@@ -1,0 +1,3 @@
+[submodule "knor"]
+	path = knor
+	url = https://github.com/trolando/knor.git
